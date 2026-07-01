@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohitK14
-- 👀 I’m interested in MEAN/ MERN, JAVA, Python, AWS development
+- 👀 I’m interested in MEAN/ MERN, JAVA, Python, Postgres, Mongodb, AWS development
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
