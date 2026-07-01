@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohitK14
-- 👀 I’m interested in MEAN Stack development
-- 🌱 My tech stack involves Angular, Node JS, Express Js, Mongo Db, Javascript, Html, Css, Bootstrap.
+- 👀 I’m interested in MEAN/ MERN, JAVA, Python, AWS development
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
